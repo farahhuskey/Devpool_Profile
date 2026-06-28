@@ -23,13 +23,13 @@ DevPool Developer 2569
 ## Project Structure
 
 ```text
-```
 devpool-profile/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
 └── .gitignore
+```
 
 ## Live Website
 
