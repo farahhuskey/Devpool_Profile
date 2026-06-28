@@ -29,3 +29,11 @@ devpool-profile/
 ├── script.js
 ├── README.md
 └── .gitignore
+
+## Live Website
+
+https://farahhuskey.github.io/Devpool_Profile/
+
+## Author
+
+ศุภโชค ประไวย์
