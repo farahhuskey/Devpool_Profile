@@ -22,7 +22,8 @@ DevPool Developer 2569
 
 ## Project Structure
 
-```text```
+```text
+```
 devpool-profile/
 ├── index.html
 ├── style.css
